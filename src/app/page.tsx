@@ -13,6 +13,14 @@ export default function Home() {
           <p>Accessibility</p>
           <p>React</p>
           <p>Angular</p>
+          <p aria-hidden="true">Javascript</p>
+          <p aria-hidden="true">Typescript</p>
+          <p aria-hidden="true">CSS</p>
+          <p aria-hidden="true">TailwindCSS</p>
+          <p aria-hidden="true">Next.js</p>
+          <p aria-hidden="true">Accessibility</p>
+          <p aria-hidden="true">React</p>
+          <p aria-hidden="true">Angular</p>
         </div>
       </div>
     </div>
